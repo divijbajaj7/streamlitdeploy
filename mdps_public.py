@@ -238,7 +238,7 @@ if (selected == "Parkinsons Prediction"):
         
     st.success(parkinsons_diagnosis)
 
-
+## This is comment in file
 
 
 
